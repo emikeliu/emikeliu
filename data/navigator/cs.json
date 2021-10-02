@@ -1,0 +1,7 @@
+{
+	"type": "list",
+	"title": "计算机",
+	"series": {
+		"本网站文档": { "navigation": "navigator/document", "type": "md" }
+	}
+}
